@@ -32,7 +32,7 @@ function App() {
               <img
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/2295px-Google_Drive_icon_%282020%29.svg.png"
                 alt="gdrive"
-                className="w-24 p-4"
+                className="w-20 pr-4"
               />
               <span className="text-3xl text-black font-semibold">Disk</span>
             </div>
